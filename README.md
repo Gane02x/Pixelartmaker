@@ -1,16 +1,13 @@
-# Pixel Art Maker Project
+# Pixelartmaker
 
-## Table of Contents
+This project uses html and JavaScript to interact with the DOM
 
-* [Instructions](#instructions)
-* [Contributing](#contributing)
+## Workflow
+- Select your width and height to create a grid
+- Select a color
+- By clicking on the boxes within the grid you can change the color of each box
+Have fun and create some Pixelartworks :)
 
-## Instructions
+## how to launch the project
 
-To get started, open `designs.js` and start building out the app's functionality.
-
-For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
-
-## Contributing
-
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
+1. start the website from your local repository by clicking on it
